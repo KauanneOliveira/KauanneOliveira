@@ -1,6 +1,10 @@
 # Bem vindo ao meu perfil no GitHub 🦋  
 
-Me chamo ```Kauanne Oliveira``` , tenho ```18 anos``` e sou de ```São Paulo, Brasil```. Atualmente estudo no ```IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo```, no curso de ```Informática``` integrado ao Ensino Médio, e estou no ```3° ano do curso```.
+Me chamo `Kauanne Oliveira` , tenho `18 anos` e sou de `São Paulo, Brasil`. Atualmente estudo no `IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo`, no curso de `Informática` integrado ao Ensino Médio, e estou no `3° ano do curso`.
+
+<div align="center">
+    <a href="https://tenor.com/"><img src="https://user-images.githubusercontent.com/101676527/219717149-5affb60c-41a3-4c14-9b0c-694b512144f2.gif" width="400" height="230" border="0" alt="https://tenor.com/" ></a> <br><br>  
+</div>
 
 ## Conhecimentos 
  
@@ -12,10 +16,15 @@ Me chamo ```Kauanne Oliveira``` , tenho ```18 anos``` e sou de ```São Paulo, Br
     <a href="https://www.linkedin.com/in/kauanne-oliveira-13a788259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 </div>
 
-## Minhas Estatísticas
+## Minhas Estatísticas no GitHub
 
 <div align="center">
-    <a href="https://github.com/KauanneOliveira">
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=KauanneOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&langs_count=7&theme=tokyonight"/>
+ <a href="https://github.com/KauanneOliveira"> 
+     <img src="https://github-readme-stats-peguimasid.vercel.app/api?username=KauanneOliveira&show_icons=true&hide=&count_private=true&title_color=9370DB&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&show_icons=true" alt="KauanneOliveira's GitHub stats" />
+     <img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&title_color=9370DB&hide=css,objective-c,html&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ </a>
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
