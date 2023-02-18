@@ -1,10 +1,10 @@
-# Nome da Actions:  
-name: Snake Game
+# Nome da Actions: 
+Nome : Jogo da Serpente
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
+      # Será atualizado a cada 72 horas.
     -cron      : "0 * /72 * * *
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
