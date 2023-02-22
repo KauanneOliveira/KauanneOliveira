@@ -25,4 +25,4 @@ Me chamo `Kauanne Oliveira` , tenho `18 anos` e sou de `São Paulo, Brasil`. Atu
  </a>
 </div>
 
-![snake gif](https://github.com/KauanneOliveira/KauanneOliveira/blob/output/github-contribution-grid-snake.svg)
+/*![snake gif](https://github.com/KauanneOliveira/KauanneOliveira/blob/output/github-contribution-grid-snake.svg)
