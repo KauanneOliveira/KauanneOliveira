@@ -8,7 +8,14 @@ Me chamo `Kauanne Oliveira` , tenho `18 anos` e sou de `São Paulo, Brasil`. Atu
 
 ## Conhecimentos 
  
- ![C]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white) ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SGBD]( https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-323330?style=for-the-badge&logo=PCGamingWiki&logoColor=white) ![Lógica de Programação](https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-792EE5?style=for-the-badge&logo=GNOME%20Terminal&logoColor=white) ![UML](https://img.shields.io/badge/UML-18BFFF?style=for-the-badge&logo=Puppet&logoColor=white)![Redes de Computadores](https://img.shields.io/badge/Redes%20de%20computadores-F01F7A?style=for-the-badge&logo=Relay&logoColor=white)
+ ![C]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white) 
+ ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+ ![SGBD]( https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+ ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
+ ![Hardware](https://img.shields.io/badge/Hardware-323330?style=for-the-badge&logo=PCGamingWiki&logoColor=white) 
+ ![Lógica de Programação](https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-792EE5?style=for-the-badge&logo=GNOME%20Terminal&logoColor=white) 
+ ![UML](https://img.shields.io/badge/UML-18BFFF?style=for-the-badge&logo=Puppet&logoColor=white)
+ ![Redes de Computadores](https://img.shields.io/badge/Redes%20de%20computadores-F01F7A?style=for-the-badge&logo=Relay&logoColor=white)
 
 ## Contatos
 <div>
@@ -20,9 +27,9 @@ Me chamo `Kauanne Oliveira` , tenho `18 anos` e sou de `São Paulo, Brasil`. Atu
 
 <div align="center">
  <a href="https://github.com/KauanneOliveira"> 
-     <img src="https://github-readme-stats-peguimasid.vercel.app/api?username=KauanneOliveira&show_icons=true&hide=&count_private=true&title_color=9370DB&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&show_icons=true" alt="KauanneOliveira's GitHub stats" />
-     <img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&title_color=9370DB&hide=css,objective-c,html&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+     <img align="center" height="150em" src="https://github-readme-stats-peguimasid.vercel.app/api?username=KauanneOliveira&show_icons=true&hide=&count_private=true&title_color=9370DB&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&show_icons=true" alt="KauanneOliveira's GitHub stats" />
+     <img align="center" height="150em" src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&title_color=9370DB&hide=css,objective-c,html&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
  </a>
 </div>
-
+    
 <!-- ![snake gif](https://github.com/KauanneOliveira/KauanneOliveira/blob/output/github-contribution-grid-snake.svg) -->
