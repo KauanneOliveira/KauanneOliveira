@@ -28,6 +28,6 @@ Me chamo `Kauanne Oliveira` , tenho `18 anos` e sou de `São Paulo, Brasil`. Atu
 <div align="center">
  <a href="https://github.com/KauanneOliveira"> 
      <img align="center" height="150em" src="https://github-readme-stats-peguimasid.vercel.app/api?username=KauanneOliveira&show_icons=true&hide=&count_private=true&title_color=9370DB&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&show_icons=true" alt="KauanneOliveira's GitHub stats" />
-     <img align="center" height="150em" src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&title_color=9370DB&hide=css,objective-c,html&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+     <img align="center" height="150em" src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&title_color=9370DB&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
  </a>
 </div>
