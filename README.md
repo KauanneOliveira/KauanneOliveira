@@ -14,7 +14,6 @@ Me chamo `Kauanne Oliveira` , tenho `18 anos` e sou de `São Paulo, Brasil`. Atu
  ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
  ![Hardware](https://img.shields.io/badge/Hardware-323330?style=for-the-badge&logo=PCGamingWiki&logoColor=white) 
  ![Lógica de Programação](https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-792EE5?style=for-the-badge&logo=GNOME%20Terminal&logoColor=white) 
- ![UML](https://img.shields.io/badge/UML-18BFFF?style=for-the-badge&logo=Puppet&logoColor=white)
  ![Redes de Computadores](https://img.shields.io/badge/Redes%20de%20computadores-F01F7A?style=for-the-badge&logo=Relay&logoColor=white)
 
 ## Contatos
