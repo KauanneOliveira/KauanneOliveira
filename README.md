@@ -1,6 +1,6 @@
 # Bem vindo ao meu GitHub 🦋
 
-Me chamo `Kauanne Oliveira` , tenho `18 anos` e sou de `São Paulo, Brasil`. Atualmente estudo no `IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo`, no curso de `Informática` integrado ao Ensino Médio e estou no 3° ano.
+Me chamo `Kauanne Oliveira` , tenho `19 anos` e sou de `São Paulo, Brasil`. Atualmente estudo no `IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo`, no curso de `Informática` integrado ao Ensino Médio e estou no 4° ano.
 
 <div align="center">
     <a href="https://tenor.com/"><img src="https://user-images.githubusercontent.com/101676527/219717149-5affb60c-41a3-4c14-9b0c-694b512144f2.gif" width="400" height="230" border="0" alt="https://tenor.com/" ></a> <br><br>  
