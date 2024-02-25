@@ -25,11 +25,11 @@ Me chamo `Kauanne Oliveira` , tenho `19 anos` e sou de `São Paulo, Brasil`. Atu
     <a href="https://www.linkedin.com/in/kauanne-oliveira-13a788259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 </div>
 
-<!-- ## Minhas Estatísticas no GitHub
+## Minhas Estatísticas no GitHub
 
 <div align="center">
- <a href="https://github.com/KauanneOliveira"> 
-     <img align="center" height="150em" src="https://github-readme-stats-peguimasid.vercel.app/api?username=KauanneOliveira&show_icons=true&hide=&count_private=true&title_color=9370DB&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&show_icons=true" alt="KauanneOliveira's GitHub stats" />
-     <img align="center" height="150em" src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&title_color=9370DB&text_color=ffffff&icon_color=9370DB&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
+ <a href="https://github.com/KauanneOliveira">
+     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=KauanneOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&langs_count=7&theme=dracula"/>
  </a>
-</div> -->
+</div>
