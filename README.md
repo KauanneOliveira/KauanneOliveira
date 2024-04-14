@@ -6,6 +6,12 @@ Me chamo `Kauanne Oliveira` , tenho `19 anos` e sou de `São Paulo, Brasil`. Atu
     <a href="https://tenor.com/"><img src="https://user-images.githubusercontent.com/101676527/219717149-5affb60c-41a3-4c14-9b0c-694b512144f2.gif" width="400" height="230" border="0" alt="https://tenor.com/" ></a> <br><br>  
 </div>
 
+## Contatos
+<div>
+    <a href = "mailto:paulakauanne2411@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/kauanne-oliveira-13a788259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+</div>
+
 ## Conhecimentos 
  
  ![C]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white) 
@@ -26,10 +32,4 @@ Me chamo `Kauanne Oliveira` , tenho `19 anos` e sou de `São Paulo, Brasil`. Atu
      <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=KauanneOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&langs_count=7&theme=dracula"/>
  </a>
-</div>
-
-## Contatos
-<div>
-    <a href = "mailto:paulakauanne2411@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/kauanne-oliveira-13a788259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 </div>
