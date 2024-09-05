@@ -1,6 +1,6 @@
 # Bem vindo ao meu GitHub 🦋
 
-Me chamo `Kauanne Oliveira` , tenho `19 anos` e sou de `São Paulo, Brasil`. Atualmente estudo no `IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo`, no curso de `Informática` integrado ao Ensino Médio e estou no 4° ano.
+Me chamo `Kauanne Oliveira` , tenho `19 anos` e sou de `São Paulo, Brasil`. Atualmente estudo no `IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo`, no curso de `Informática` integrado ao Ensino Médio e estou no 4° ano.  Também estou cursando o `Técnico em Desenvolvimento de Sistemas` na `Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta` e atuando como `Aprendiz no Metrô de São Paulo`.
 
 <div align="center">
     <a href="https://tenor.com/"><img src="https://user-images.githubusercontent.com/101676527/219717149-5affb60c-41a3-4c14-9b0c-694b512144f2.gif" width="400" height="230" border="0" alt="https://tenor.com/" ></a> 
@@ -15,7 +15,7 @@ Me chamo `Kauanne Oliveira` , tenho `19 anos` e sou de `São Paulo, Brasil`. Atu
 
 ## Conhecimentos 
  
- ![C]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white) 
+ ![C]( https://img.shields.io/badge/C-7d56b4?style=for-the-badge&logo=&logoColor=white) 
  ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
  ![SGBD]( https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
  ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
@@ -25,6 +25,7 @@ Me chamo `Kauanne Oliveira` , tenho `19 anos` e sou de `São Paulo, Brasil`. Atu
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![Levantamento de Requisitos](https://img.shields.io/badge/Levantamento%20de%20Requisitos-297c04?style=for-the-badge&logo=levantamentoderequisitos&logoColor=white)
 
 ## Minhas Estatísticas no GitHub
 
