@@ -31,7 +31,7 @@ Me chamo `Kauanne Oliveira` , tenho `20 anos` e sou de `São Paulo, Brasil`. Atu
 
 <div align="center">
  <a href="https://github.com/KauanneOliveira">
-     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=KauanneOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=KauanneOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
      <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&langs_count=7&theme=dracula"/>
  </a>
 </div>
