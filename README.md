@@ -3,7 +3,7 @@
 Sou `Kauanne Oliveira`, uma estudante de `20 anos`, natural de `São Paulo - SP`, formada pelo `Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)` como `Técnica em Informática`. Atualmente, estou cursando o `Técnico em Desenvolvimento de Sistemas` na `Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta` e atuando como `Aprendiz no Metrô de São Paulo`. 
 
 <div align="center">
-    <a href="https://tenor.com/"><img src="https://user-images.githubusercontent.com/101676527/219717149-5affb60c-41a3-4c14-9b0c-694b512144f2.gif" width="400" height="230" border="0" alt="https://tenor.com/" ></a> 
+    <img src="fotoPerfil.png" width="400" height="400" border="0" alt="fotoPerfil.png">
     <br>
 </div>
 
