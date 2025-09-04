@@ -1,4 +1,4 @@
-# Bem vindo ao meu GitHub 😄
+# Bem vindo ao meu GitHub 🌟
 
 Sou `Kauanne Oliveira`, uma estudante de `20 anos`, natural de `São Paulo - SP`, formada pelo `Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)` como `Técnica em Informática`. Atualmente, estou cursando o `Técnico em Desenvolvimento de Sistemas` na `Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta` e atuando como `Aprendiz no Metrô de São Paulo`. 
 
