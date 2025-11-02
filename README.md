@@ -37,4 +37,4 @@ Sou `Kauanne Oliveira`, uma estudante de `20 anos`, natural de `São Paulo - SP`
  </a>
 </div>
 
-
+<!-- Repositório que contém tudo sobre as estatísticas https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hiding-individual-stats -->
