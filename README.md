@@ -26,12 +26,15 @@ Sou `Kauanne Oliveira`, uma estudante de `20 anos`, natural de `São Paulo - SP`
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![Levantamento de Requisitos](https://img.shields.io/badge/Levantamento%20de%20Requisitos-297c04?style=for-the-badge&logo=levantamentoderequisitos&logoColor=white)
+ 
 
 ## Minhas Estatísticas no GitHub
 
 <div align="center">
  <a href="https://github.com/KauanneOliveira">
-     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=KauanneOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-     <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&langs_count=7&theme=dracula"/>
+     <img  height="170" src="https://github-readme-stats.vercel.app/api?username=KauanneOliveira&show_icons=true&&rank_icon=github&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=86400&locale=pt-br"/>
+     <img  height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanneOliveira&layout=compact&langs_count=8&theme=midnight-purple&card_width=350&custom_title=Linguagens%20Mais%20Usadas"/>
  </a>
 </div>
+
+
